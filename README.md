@@ -37,6 +37,7 @@ site : 菜鸟教程
 url : www.runoob.com
 
 菜鸟教程 - 学的不仅是技术，更是梦想！
+
 Vue 构造器中有一个el 参数，它是 DOM 元素中的 id
 data 用于定义属性，实例中有三个属性分别为：site、url、alexa
 methods 用于定义的函数，可以通过 return 来返回函数值。
