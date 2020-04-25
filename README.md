@@ -1,5 +1,5 @@
 # 每个 Vue 应用都需要通过实例化 Vue 来实现
-'''
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -30,7 +30,7 @@
 	</script>
 </body>
 </html>
-'''
+```
 ##### 运行结果：
 site : 菜鸟教程
 url : www.runoob.com
